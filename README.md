@@ -33,4 +33,4 @@ How to Restore a Backup:
 ------------------------
 Replace your "world" folder with one of the folders in SERVER_BACKUPS
 
-For a More In-Depth Tutorial with Screenshots, visit here: https://www.shygirlgamer.com/2021/05/16/minecraft-backup-run-server/
+For a More In-Depth Tutorial with Screenshots, visit here: https://monicakochofar.medium.com/backup-and-run-your-minecraft-server-with-batch-files-44220e264e6d
